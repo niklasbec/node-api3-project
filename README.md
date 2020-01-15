@@ -10,7 +10,7 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
+- [X] Create a forked copy of this project.
 - [ ] Add your `Team Lead` as collaborator on Github.
 - [ ] Clone your OWN version of the repository.
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
